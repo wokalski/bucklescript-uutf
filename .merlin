@@ -1,0 +1,10 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx /Users/wczekalski/Documents/Work/Projects/bucklescript-uutf/node_modules/bs-platform/bin/bsppx.exe
+S /Users/wczekalski/Documents/Work/Projects/bucklescript-uutf/node_modules/bs-platform/lib/ocaml
+B /Users/wczekalski/Documents/Work/Projects/bucklescript-uutf/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib -no-alias-deps -color always -w -40+6+7+27+32..39+44+45
+S /Users/wczekalski/Documents/Work/Projects/bucklescript-uutf/node_modules/bucklescript-uchar/lib/ocaml
+B /Users/wczekalski/Documents/Work/Projects/bucklescript-uutf/node_modules/bucklescript-uchar/lib/ocaml
+S uutf/src
+B lib/bs/uutf/src
+####BSB GENERATED: NO EDIT}

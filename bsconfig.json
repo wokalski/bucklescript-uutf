@@ -1,0 +1,7 @@
+{
+    "name": "bucklescript-uutf",
+    "bs-dependencies": ["bucklescript-uchar"],
+    "sources": [{
+        "dir": "uutf/src",
+    }]
+}

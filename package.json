@@ -1,0 +1,13 @@
+{
+  "name": "bucklescript-uutf",
+  "version": "0.0.1",
+  "repository": "https://github.com/wokalski/bucklescript-uutf.git",
+  "author": "Wojtek Czekalski <me@wczekalski.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bucklescript-uchar": "git://github.com/wokalski/bucklescript-uchar.git#de85cbf80c20d994ab4441348b00c99c7164a61d"
+  },
+  "peerDependencies": {
+    "bs-platform": "^1.7.3"
+  }
+}

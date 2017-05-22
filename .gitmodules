@@ -1,0 +1,3 @@
+[submodule "uutf"]
+	path = uutf
+	url = https://github.com/dbuenzli/uutf.git
